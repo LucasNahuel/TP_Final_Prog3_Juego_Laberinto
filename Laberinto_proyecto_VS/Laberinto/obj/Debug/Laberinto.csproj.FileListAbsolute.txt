@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\bin\Debug\Laberinto.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.Form2.resources
+C:\Users\Lucas\documents\visual studio 2017\Projects\Laberinto\Laberinto\bin\Debug\IAgent.dll
+C:\Users\Lucas\documents\visual studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.FormAgente.resources
+C:\Users\Lucas\documents\visual studio 2017\Projects\Laberinto\Laberinto\obj\Debug\Laberinto.FormMenu.resources
